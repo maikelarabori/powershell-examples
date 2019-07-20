@@ -1,2 +1,2 @@
 # powershell-examples
-A few examples of powershell scripts
+A few examples of PowerShell scripts.
